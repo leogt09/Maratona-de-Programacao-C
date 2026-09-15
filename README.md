@@ -46,5 +46,5 @@ O objetivo deste repositório é registrar o início da minha trajetória técni
 ---
 
 ## 📅 Histórico
-* **Desenvolvido em:** 2025 (1º ano de graduação)
+* **Desenvolvido em:** 2025 (1º período de graduação)
 * **Status:** Concluído / Registro de aprendizado prático
