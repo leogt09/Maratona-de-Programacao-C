@@ -45,30 +45,6 @@ O objetivo deste repositório é registrar o início da minha trajetória técni
 
 ---
 
-## 🚀 Como Compilar e Executar
-
-### Pré-requisitos
-* Compilador GCC instalado.
-
-### Passo a passo
-```bash
-# 1. Clone o repositório e acesse a pasta
-git clone [https://github.com/leogt09/Maratona-de-Programacao-C.git](https://github.com/leogt09/Maratona-de-Programacao-C.git)
-cd Maratona-de-Programacao-C
-
-# 2. Compile o código com GCC
-gcc main.c -o maratona
-
-# 3. Execute o programa
-# No Linux ou macOS:
-./maratona
-
-# No Windows:
-maratona.exe
-
-
----
-
 ## 📅 Histórico
 * **Desenvolvido em:** 2025 (1º ano de graduação)
 * **Status:** Concluído / Registro de aprendizado prático
